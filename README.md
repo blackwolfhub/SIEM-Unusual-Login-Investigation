@@ -1,7 +1,7 @@
 # SIEM-Unusual-Login-Investigation
 Beginner SOC investigation: analysing a suspicious login alert using SIEM methodology.
-How I Investigated and Tackled the Unusual Login Alert
-1. Reviewed the SIEM Alert
+How I Investigated and tackled the unusual login alert
+1. Reviewed the SIEM alert
 I started by checking the alert details:
 Login at 02:14 AM
 Foreign IP address
